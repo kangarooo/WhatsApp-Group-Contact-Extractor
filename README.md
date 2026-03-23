@@ -1,2 +1,16 @@
 # WhatsApp-Group-Contact-Extractor
 WhatsApp Group Contact Extractor
+
+
+![License: Proprietary](https://img.shields.io/badge/License-Proprietary-red.svg)
+
+## License
+
+Copyright (c) 2026 [Jānis Ķengurs]. All rights reserved.
+
+This software and its source code are proprietary and confidential.
+Unauthorized copying, modification, distribution, sublicensing, or
+commercial use of this software, in whole or in part, is strictly
+prohibited without prior written permission from the copyright owner.
+
+For licensing or partnership inquiries, contact: [kangarooo@gmail.com]
