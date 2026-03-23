@@ -1,5 +1,7 @@
 # WhatsApp-Group-Contacts-Exporter
-WhatsApp Group Contact Extractor
+WhatsApp Group Contacts Exporter
+
+Whatsapp group members list exporter into csv format for easy saving into google contacts
 
 
 ![License: Proprietary](https://img.shields.io/badge/License-Proprietary-red.svg)
